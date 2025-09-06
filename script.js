@@ -1,15 +1,17 @@
 // Daftar website
 const websites = [
-  "https://example.com",
-  "https://wikipedia.org",
-  "https://github.com",
-  "https://stackoverflow.com",
-  "https://openai.com",
-  "https://mozilla.org",
-  "https://unsplash.com",
-  "https://pexels.com",
-  "https://cnn.com",
-  "https://bbc.com"
+  "https://silverhawk.web.id/skripkeren",
+  "https://silverhawk.web.id/utel",
+  "https://silverhawk.web.id/mnj",
+  "https://silverhawk.web.id/sepeda",
+  "https://silverhawk.web.id/cellphone",
+  "https://silverhawk.web.id/websiswa",
+  "https://silverhawk.web.id/travel",
+  "https://silverhawk.web.id/educate",
+  "https://silverhawk.web.id/wave",
+  "https://silverhawk.web.id/raptor",
+  "https://silverhawk.web.id/stride",
+  "https://silverhawk.web.id/ayahelang"
 ];
 
 // API Screenshot
